@@ -36,7 +36,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Specify the folder to deploy
-          path: './docs/interplanetary-players-loader/0.0.0'
+          path: './docs/interplanetary-players/2.0.0'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
