@@ -4,8 +4,9 @@ This repository contains the automatically generated documentation for the **Int
 
 # Resources
 
-- [**Project Repository**](https://github.com/maar34/interplanetary-players): Visit the Interplanetary Players GitHub repository.
-- [**Wiki**](https://github.com/maar34/interplanetary-players/wiki): Explore guides, FAQs, and additional resources.
+- [**Dev Documentation Page**](https://maar34.github.io/interplanetary-players-docs/): View the hosted project documentation.
+- [**Interplanetary Players Wiki**](https://github.com/maar34/interplanetary-players/wiki): Explore guides, FAQs, and additional resources.
+- [**Interplanetary Players Repository**](https://github.com/maar34/interplanetary-players): Visit the Interplanetary Players GitHub repository.
 
 ## 📖 About
 The Interplanetary Players project are 3D music players that combines JavaScript, Three.js, and custom interaction modules. This repository hosts the technical documentation for developers, collaborators, and users who wish to understand or contribute to the project.
@@ -59,3 +60,4 @@ To update or contribute to the documentation:
 
 ## 📬 Contact
 For questions or contributions, feel free to reach out via the main project repository: [Interplanetary Players](https://github.com/maar34/interplanetary-players).
+
